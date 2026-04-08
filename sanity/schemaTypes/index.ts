@@ -1,5 +1,5 @@
 import { type SchemaTypeDefinition } from "sanity";
-import { categoryType } from "./catagoryType";
+import { categoryType } from "./categoryType";
 import { blockContentType } from "./blockContentType";
 import { productType } from "./productType";
 import { orderType } from "./orderType";
